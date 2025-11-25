@@ -2,4 +2,3 @@ Hello My Name Is Ayush and My Birthday is on 27May
 <<<<<<< HEAD
 Ankit Singh is My bestfriends and he is from gorakhpur and Also Tejasv and sahana is also my friends
 =======
->>>>>>> parent of 3134442 (some content are added in the file)
